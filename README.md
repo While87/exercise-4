@@ -11,4 +11,5 @@ c. Логин может состоять из латинских букв, ци
 d. Логин не может начинаться на цифру, точку, минус.
 5. Код должен быть покрыт Unit-тестами.
 
-![изображение](https://user-images.githubusercontent.com/3084720/132683846-d28f44e0-db6a-405b-bc27-3b70e6eec6ed.png)
+![изображение](https://user-images.githubusercontent.com/3084720/132683846-d28f44e0-db6a-405b-bc27-3b70e6eec6ed.png) ![изображение](https://user-images.githubusercontent.com/3084720/132684003-f9c9a2c1-d9b2-4766-b807-3d6452705123.png)
+
